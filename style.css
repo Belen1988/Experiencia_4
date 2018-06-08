@@ -1,0 +1,69 @@
+body{margin:0;
+	padding: 0;}
+
+p {margin-left: 200px;
+   margin-right: 200px;
+   font-size: 15px;
+   text-align: just;
+	}
+
+h1 {clear:both;}
+.seccion1
+		{
+			background-image:url(bg.jpeg);
+			background-size:cover;
+			padding: 1rem;
+			text-align: center;
+			color:white;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 1.5em;
+
+		}
+		ul
+		{float:right;}
+		ul li 
+		{list-style:none;
+			display:inline-block;
+			width:100px;
+			padding: 0;
+			margin: 0;
+			font-size: 15px;}
+		img
+		{size:10%;}
+		.comienzaaca{background-color: #337ab7;color: white;}
+		.masinfo{background-color: #5cb85c ;color:white;}
+
+.latamlogo
+		{width:300px;
+			float:left;}
+
+.seccion2
+		{font-family: 'Open Sans', sans-serif;
+			text-align: center;}
+
+.happypeople {width:40%;
+			margin-left:100px;}
+
+
+.seccion3
+		{font-family: 'Open Sans', sans-serif;
+		text-align: center;
+		border: grey 1px solid;
+		}
+		.inscribete{background-color: #337ab7;color: white;}
+
+
+.seccion4
+		{
+			background-color:white;
+			font-family: 'Open Sans', sans-serif;
+		}
+.mail{color: blue}		
+
+
+.seccion5
+		{
+			background-color:grey;
+			text-align: center;
+			font-family: 'Open Sans', sans-serif;
+		}
